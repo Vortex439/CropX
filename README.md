@@ -46,7 +46,7 @@ A modern, responsive React-based frontend for a farmers' marketplace platform th
 - **Icons**: Heroicons
 - **State Management**: React Hooks (useState, useContext)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -107,7 +107,7 @@ A modern, responsive React-based frontend for a farmers' marketplace platform th
 - **Navbar**: Responsive navigation
 - **Footer**: Site-wide footer with links
 
-## 📊 Mock Data
+##  Mock Data
 
 The application includes comprehensive mock data for:
 - **Crops**: 6 sample crops with images, pricing, and quality grades
